@@ -1,2 +1,2 @@
 # evergladesRescueGame
-Everglades Rescue game 
+"In the 'Lost in the Everglades' RPG, players take on the role of a ranger tasked with rescuing a group of tourists lost in the Everglades before time runs out. The game is played on a 5x5 grid representing the Everglades, with the ranger starting in the upper-left corner and the tourists located in the lower-right corner. Players must navigate through the grid, encountering dangers such as hungry alligators, giant mosquitoes, venomous spiders, and pythons. They must decide whether to fight these dangers or wait for them to pass, each choice affecting the game's outcome. The goal is to rescue the tourists before time expires or face an unknown fate."
